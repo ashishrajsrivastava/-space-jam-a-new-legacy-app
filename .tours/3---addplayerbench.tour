@@ -3,12 +3,12 @@
   "title": "3 - Add Player Bench",
   "steps": [
     {
-      "description": "It's time to display all of your players on the bench in your app! This tour follows along with the [9th unit of the Coaches App module on Microsoft Learn](https://docs.microsoft.com/en-us/learn/modules/optimize-basketball-player-rest-breaks/9-add-players-to-bench).\r\n\r\nClick `next` to get started!"
-    },
-    {
       "file": "main.js",
       "line": 55,
       "description": "If you head over to the `index.html` file you can find an element called `playersOnBench`. This element representst the blue bench in your app. \r\n\r\nCreate a variable called `bench` that points to this element in your HTML by using the `getElementByID` function."
+    },
+    {
+      "description": "It's time to display all of your players on the bench in your app! This tour follows along with the [9th unit of the Coaches App module on Microsoft Learn](https://docs.microsoft.com/en-us/learn/modules/optimize-basketball-player-rest-breaks/9-add-players-to-bench).\r\n\r\nClick `next` to get started!"
     },
     {
       "file": "main.js",
